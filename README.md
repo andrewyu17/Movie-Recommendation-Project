@@ -1,4 +1,4 @@
-# Movie-Recommendation-Project
+# Movie Recommendation Project
 
 ### Last Updated
 6/3/22
